@@ -5,4 +5,3 @@ window.addEventListener('load', () => {
       document.getElementById('slpp').style.display = 'block';
   }, 1000);
 });
-
